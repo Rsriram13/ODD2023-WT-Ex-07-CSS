@@ -79,12 +79,11 @@ Close the HTML structure.
 ```
       
   # OUTPUT 7(i):
+![output](https://github.com/Rsriram13/ODD2023-WT-Ex-07-CSS/assets/145742823/5a20fa2d-6830-4756-a344-e589f699ac14)
+![output](https://github.com/Rsriram13/ODD2023-WT-Ex-07-CSS/assets/145742823/21379ea9-a11c-4669-a5cc-599cf6cadf3b)
+![output](https://github.com/Rsriram13/ODD2023-WT-Ex-07-CSS/assets/145742823/c9146aa3-a45f-4841-a341-0d66d245cd3f)
 
-  ![image](https://github.com/Rsriram13/ODD2023-WT-Ex-07-CSS/assets/145742823/ceb9f280-6582-4ac1-a95f-dbc314c199cc)
-
-  ![image](https://github.com/Rsriram13/ODD2023-WT-Ex-07-CSS/assets/145742823/4c29adc1-9a31-4c0b-ba2f-938a38839bc5)
-
-  ![image](https://github.com/Rsriram13/ODD2023-WT-Ex-07-CSS/assets/145742823/5b5aa7d4-2dca-416c-81d7-c01ea599c485)
+ 
   # Ex-07(ii)-CSS
 # AIM
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px) by providing an example CSS snippet to demonstrate your answer.
